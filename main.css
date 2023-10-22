@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&display=swap');
+.body {
+    font-family: 'Oswald', sans-serif;
+}
+.body {
+    width: 1440px;
+    height: 1960px;
+}
+.body {
+    background: hsl(294, 40%, 18%) url(img/Background.svg);
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+}
+.nav-menu {
+    padding-top: 60px;
+}
+.nav-menu-list {
+    margin-top: 15px;
+    margin-left: 55px;
+    color: #e9e0e6;
+    line-height: 60px;
+}
+:hover span:hover {
+    color: rgb(226, 230, 5);
+}
+.logotype {
+    margin-top: 15px;
+    margin-left: 55px;
+    font-size: 30px;
+}
+.sidebar {
+    margin-top: -550px;
+    margin-left: -10px;
+}
+.logo {
+    transform: translateX(589px);
+    position: relative;
+    top: -410px;
+}
+.mobile-app-text {
+    margin-top: -400px;
+    margin-left: 600px;
+    color: #e9e0e6;
+}
+p {
+    display: block;
+    margin-top: -210px;
+    font-size: 25px;
+}
+p {
+    display: block;
+    margin-top: 10px;
+    font-size: 25px;
+}
+p {
+    display: block;
+    margin-top: 10px;
+    font-size: 25px;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #e9e0e6;
+}
+.learn-more span {
+    color: #540064;
+}
+.learn {
+    margin-left: 590px;
+    color: #e9e0e6;
+    font-size: 30px;
+    border: 5px solid rgb(243, 236, 236);
+    border-radius: 20px;
+}
+.learn-more {
+    color: rgb(226, 230, 5);
+}
